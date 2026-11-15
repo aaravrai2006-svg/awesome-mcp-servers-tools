@@ -18,6 +18,7 @@
 - **Developer Workflows**: Git, Docker, Kubernetes, Static Analysis
 - **Web & Automation**: Browser automation, Google Search, Scraping
 - **Communication**: Slack, Discord, Email
+- **Live Music & Venues**: [No Stairs Please MCP](https://nostairsplease.com/mcp) — Every small stage in all 50 states, and who books it ([nostairsplease.com](https://nostairsplease.com/))
 
 ---
 *Maintained by [Aarav Rai](https://github.com/aaravrai2006-svg)*
